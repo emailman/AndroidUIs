@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android UIs</string>
+    <string name="action_settings">Settings</string>
+    <string name="strBlue">Blue</string>
+    <string name="strOrange">Orange</string>
+    <string name="strButt">Colorize</string>
+</resources>
